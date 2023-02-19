@@ -2,12 +2,8 @@
 
 This project was made in Reactjs with inline css
 
-## Design inspired by
+# Design inspired by
 Pooja Dongre
-
-
-# HTML-CSS-JS_projects
-In this only html css and javascript projects.
 
 
 The MIT License (MIT)
